@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, 
+I'M Tyler Dickey (American, 1989– )and I am interested in the intersections between art, built environments, and technology.
 
 <!--
 **tylerdickey/tylerdickey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
